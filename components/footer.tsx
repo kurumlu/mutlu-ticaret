@@ -9,9 +9,9 @@ export function Footer() {
           <div>
             <div className="flex items-center gap-2 mb-4">
               <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-primary">
-                <span className="text-lg font-bold text-primary-foreground">Ş</span>
+                <span className="text-lg font-bold text-primary-foreground">M</span>
               </div>
-              <span className="text-xl font-bold">Şirketiniz</span>
+              <span className="text-xl font-bold">Mutlu Ticaret</span>
             </div>
             <p className="text-sm text-muted-foreground">
               2010 yılından bu yana kaliteli hizmet anlayışıyla yanınızdayız.
