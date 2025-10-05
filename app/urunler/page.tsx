@@ -45,7 +45,7 @@ export default function ProductsPage() {
 
       <main className="flex-1">
         {/* Page Header */}
-        <section className="bg-muted/30 py-12 md:py-16">
+        <section className="bg-muted/30 py-12 md:py-16 p-8">
           <div className="container">
             <div className="max-w-3xl">
               <h1 className="text-4xl md:text-5xl font-bold mb-4">Ürünlerimiz</h1>
