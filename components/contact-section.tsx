@@ -50,7 +50,7 @@ export function ContactSection({ contact }: ContactSectionProps) {
   }
 
   return (
-    <section id="iletisim" className="py-16 md:py-24">
+    <section id="iletisim" className="py-16 md:py-24 p-8">
       <div className="container">
         <div className="max-w-3xl mx-auto text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">{contact.title}</h2>
