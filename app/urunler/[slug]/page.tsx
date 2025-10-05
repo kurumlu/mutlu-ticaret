@@ -68,7 +68,7 @@ export default async function ProductDetailPage({ params }: PageProps) {
         </section>
 
         {/* Product Detail */}
-        <section className="py-12 md:py-16">
+        <section className="py-12 md:py-16 p-8">
           <div className="container">
             <div className="grid gap-8 lg:grid-cols-2 lg:gap-12">
               {/* Product Image */}
