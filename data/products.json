@@ -1,0 +1,170 @@
+{
+  "products": [
+    {
+      "id": "urun-1",
+      "name": "Modern Traktör 150 HP",
+      "slug": "modern-traktor-150-hp",
+      "shortDescription": "Yüksek performanslı 150 beygir gücünde modern traktör",
+      "price": "850.000",
+      "currency": "TL",
+      "image": "/placeholder.svg?height=400&width=600",
+      "category": "Traktörler",
+      "featured": true,
+      "inStock": true,
+      "fullDescription": "Modern Traktör 150 HP, geniş arazilerde yüksek verimlilikle çalışmak için tasarlanmıştır. Güçlü motoru ve dayanıklı yapısıyla her türlü tarımsal işlemde üstün performans sunar. Yakıt tasarrufu sağlayan motor teknolojisi ve konforlu kabini ile uzun süreli kullanımlarda bile operatör yorgunluğunu minimize eder.",
+      "features": [
+        "150 HP güçlü motor",
+        "Klimalı kabin",
+        "Hidrolik sistem",
+        "Yakıt tasarrufu teknolojisi",
+        "2 yıl garanti",
+        "Ücretsiz bakım paketi"
+      ],
+      "specifications": {
+        "Motor Gücü": "150 HP",
+        "Yakıt Tipi": "Dizel",
+        "Transmisyon": "Otomatik",
+        "Ağırlık": "4500 kg",
+        "Üretim Yılı": "2024"
+      }
+    },
+    {
+      "id": "urun-2",
+      "name": "Pulluk Sistemi Pro",
+      "slug": "pulluk-sistemi-pro",
+      "shortDescription": "Profesyonel kullanım için çok kademeli pulluk sistemi",
+      "price": "45.000",
+      "currency": "TL",
+      "image": "/placeholder.svg?height=400&width=600",
+      "category": "Toprak İşleme",
+      "featured": true,
+      "inStock": true,
+      "fullDescription": "Pulluk Sistemi Pro, derin ve etkili toprak işleme için geliştirilmiş profesyonel bir ekipmandır. Ayarlanabilir derinlik kontrolü ve dayanıklı çelik yapısı ile her türlü toprak koşulunda mükemmel sonuçlar verir. Kolay montaj ve bakım özellikleri ile uzun ömürlü kullanım sağlar.",
+      "features": [
+        "5 kademeli pulluk",
+        "Ayarlanabilir derinlik",
+        "Paslanmaz çelik yapı",
+        "Kolay montaj",
+        "3 yıl garanti"
+      ],
+      "specifications": {
+        "Kademe Sayısı": "5",
+        "Çalışma Derinliği": "30-45 cm",
+        "Malzeme": "Paslanmaz çelik",
+        "Ağırlık": "850 kg",
+        "Uyumlu Traktör": "80+ HP"
+      }
+    },
+    {
+      "id": "urun-3",
+      "name": "Sulama Sistemi Otomatik",
+      "slug": "sulama-sistemi-otomatik",
+      "shortDescription": "Akıllı kontrol üniteli otomatik sulama sistemi",
+      "price": "125.000",
+      "currency": "TL",
+      "image": "/placeholder.svg?height=400&width=600",
+      "category": "Sulama",
+      "featured": false,
+      "inStock": true,
+      "fullDescription": "Sulama Sistemi Otomatik, modern tarımın vazgeçilmez teknolojisidir. Akıllı sensörler sayesinde toprak nemini ölçerek otomatik sulama yapar, su tasarrufu sağlar. Uzaktan kontrol özelliği ile mobil cihazınızdan sistemi yönetebilirsiniz. Geniş araziler için ideal çözümdür.",
+      "features": [
+        "Akıllı nem sensörleri",
+        "Mobil uygulama kontrolü",
+        "Otomatik zamanlama",
+        "Su tasarrufu %40",
+        "5 yıl garanti",
+        "Profesyonel kurulum dahil"
+      ],
+      "specifications": {
+        "Kapsama Alanı": "50 dönüm",
+        "Basınç": "3-6 bar",
+        "Boru Çapı": "63 mm",
+        "Kontrol Ünitesi": "Akıllı",
+        "Güç": "220V"
+      }
+    },
+    {
+      "id": "urun-4",
+      "name": "Hasat Makinesi Kombine",
+      "slug": "hasat-makinesi-kombine",
+      "shortDescription": "Çok amaçlı kombine hasat makinesi",
+      "price": "1.250.000",
+      "currency": "TL",
+      "image": "/placeholder.svg?height=400&width=600",
+      "category": "Hasat",
+      "featured": true,
+      "inStock": true,
+      "fullDescription": "Hasat Makinesi Kombine, buğday, arpa, mısır ve ayçiçeği gibi birçok ürünün hasadını yapabilen çok yönlü bir makinedir. Geniş kesim genişliği ve yüksek kapasite ile hızlı hasat imkanı sunar. Modern teknoloji ile donatılmış kabin ve kolay bakım özellikleri ile operatör konforu maksimum seviyededir.",
+      "features": [
+        "Çok ürün hasadı",
+        "6 metre kesim genişliği",
+        "GPS destekli navigasyon",
+        "Otomatik nem ölçümü",
+        "Klimalı lüks kabin",
+        "3 yıl garanti"
+      ],
+      "specifications": {
+        "Kesim Genişliği": "6 metre",
+        "Motor Gücü": "300 HP",
+        "Tank Kapasitesi": "8000 litre",
+        "Ağırlık": "12000 kg",
+        "Üretim Yılı": "2024"
+      }
+    },
+    {
+      "id": "urun-5",
+      "name": "Gübre Dağıtıcı Hassas",
+      "slug": "gubre-dagitici-hassas",
+      "shortDescription": "Hassas dozajlama özellikli gübre dağıtım sistemi",
+      "price": "85.000",
+      "currency": "TL",
+      "image": "/placeholder.svg?height=400&width=600",
+      "category": "Gübreleme",
+      "featured": false,
+      "inStock": true,
+      "fullDescription": "Gübre Dağıtıcı Hassas, homojen gübre dağılımı sağlayan modern bir ekipmandır. Elektronik kontrol sistemi ile hassas dozajlama yaparak gübre tasarrufu sağlar ve çevreye duyarlı tarım yapmanızı destekler. Geniş çalışma genişliği ile zaman tasarrufu sağlar.",
+      "features": [
+        "Elektronik dozajlama",
+        "Homojen dağılım",
+        "12 metre çalışma genişliği",
+        "2000 kg kapasite",
+        "2 yıl garanti"
+      ],
+      "specifications": {
+        "Kapasite": "2000 kg",
+        "Çalışma Genişliği": "12 metre",
+        "Kontrol": "Elektronik",
+        "Ağırlık": "650 kg",
+        "Uyumlu Traktör": "60+ HP"
+      }
+    },
+    {
+      "id": "urun-6",
+      "name": "Mibzer Pnömatik",
+      "slug": "mibzer-pnomatik",
+      "shortDescription": "Hassas ekim için pnömatik mibzer sistemi",
+      "price": "195.000",
+      "currency": "TL",
+      "image": "/placeholder.svg?height=400&width=600",
+      "category": "Ekim",
+      "featured": false,
+      "inStock": true,
+      "fullDescription": "Mibzer Pnömatik, hassas ekim mesafesi ve derinliği ile yüksek verimli ekim yapmanızı sağlar. Pnömatik sistem sayesinde tohum hasarı minimuma iner ve çimlenme oranı artar. Farklı tohum tipleri için ayarlanabilir sistem ile çok yönlü kullanım imkanı sunar.",
+      "features": [
+        "Pnömatik tohum sistemi",
+        "Hassas ekim derinliği",
+        "8 sıra ekim",
+        "Elektronik kontrol",
+        "Çoklu tohum uyumu",
+        "3 yıl garanti"
+      ],
+      "specifications": {
+        "Sıra Sayısı": "8",
+        "Sıra Aralığı": "70 cm",
+        "Tohum Kapasitesi": "400 kg",
+        "Ağırlık": "1200 kg",
+        "Uyumlu Traktör": "100+ HP"
+      }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "hero": {
+    "title": "Tarımda Kalite ve Güvenin Adresi",
+    "subtitle": "Modern tarım ekipmanları ve çözümleriyle çiftçilerimizin yanındayız. Verimli ve sürdürülebilir tarım için ihtiyacınız olan her şey burada.",
+    "ctaText": "Ürünlerimizi Keşfedin",
+    "ctaLink": "/urunler"
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "description": "2010 yılından bu yana tarım sektöründe öncü konumumuzu koruyarak, çiftçilerimize en kaliteli tarım ekipmanları ve hizmetleri sunmaktayız. Deneyimli ekibimiz ve yenilikçi yaklaşımımızla, tarımsal üretiminizi artırmak için özel çözümler geliştiriyoruz.",
+    "mission": "Çiftçilerimizin başarısını ön planda tutarak, modern tarım teknolojileri ile verimli ve sürdürülebilir tarım yapılmasına katkı sağlamak.",
+    "values": [
+      {
+        "title": "Kalite",
+        "description": "En yüksek kalite standartlarında tarım ekipmanları sunuyoruz"
+      },
+      {
+        "title": "Güvenilirlik",
+        "description": "Satış sonrası destek ve uzun vadeli iş ortaklıkları kuruyoruz"
+      },
+      {
+        "title": "Yenilikçilik",
+        "description": "Modern tarım teknolojilerini takip ederek çözümler üretiyoruz"
+      }
+    ]
+  },
+  "contact": {
+    "title": "İletişim",
+    "address": "Atatürk Caddesi No: 123, Çankaya, Ankara, Türkiye",
+    "phone": "+90 312 123 45 67",
+    "whatsapp": "+905321234567",
+    "email": "info@tarimekipmanlari.com",
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3060.0234567890123!2d32.8597411!3d39.9208333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDU1JzE1LjAiTiAzMsKwNTEnMzUuMSJF!5e0!3m2!1str!2str!4v1234567890123!5m2!1str!2str",
+    "workingHours": "Pazartesi - Cuma: 09:00 - 18:00"
+  }
+}
