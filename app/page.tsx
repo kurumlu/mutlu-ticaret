@@ -27,7 +27,7 @@ export default function HomePage() {
         />
 
         {/* Featured Products Section */}
-        <section className="py-16 md:py-24">
+        <section className="py-16 md:py-24 p-8">
           <div className="container">
             <div className="flex items-center justify-between mb-12">
               <div>
