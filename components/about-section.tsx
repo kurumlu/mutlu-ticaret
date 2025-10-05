@@ -34,7 +34,7 @@ export function AboutSection({ title, description, mission, values }: AboutSecti
           </Card>
         </div>
 
-        <div className="grid gap-6 md:grid-cols-3">
+        <div className="grid gap-6 md:grid-cols-3 p-8">
           {values.map((value, index) => (
             <Card key={index} className="border-2">
               <CardContent className="p-6">
