@@ -59,22 +59,22 @@ export function Footer() {
             <ul className="space-y-3 text-sm">
               <li className="flex items-start gap-2 text-muted-foreground">
                 <MapPin className="h-4 w-4 mt-0.5 flex-shrink-0" />
-                <span>Atatürk Caddesi No: 123, Çankaya, Ankara</span>
+                <span>Saraylar, 510. Sk. No:13, 20010 Denizli Merkezefendi/Denizli, Türkiye</span>
               </li>
               <li className="flex items-center gap-2 text-muted-foreground">
                 <Phone className="h-4 w-4 flex-shrink-0" />
-                <span>+90 312 123 45 67</span>
+                <span>+90 532 371 99 59</span>
               </li>
               <li className="flex items-center gap-2 text-muted-foreground">
                 <Mail className="h-4 w-4 flex-shrink-0" />
-                <span>info@sirketiniz.com</span>
+                <span>mutlu.kurumlu@gmail.com</span>
               </li>
             </ul>
           </div>
         </div>
 
         <div className="mt-8 pt-8 border-t text-center text-sm text-muted-foreground">
-          <p>&copy; {new Date().getFullYear()} Şirketiniz. Tüm hakları saklıdır.</p>
+          <p>&copy; {new Date().getFullYear()} Mutlu Ticaret. Tüm hakları saklıdır.</p>
         </div>
       </div>
     </footer>
